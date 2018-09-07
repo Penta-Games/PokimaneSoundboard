@@ -1,0 +1,44 @@
+<resources>
+
+    <string name="app_name">Pokimane Soundboard</string>
+    <string name="package_name">com.greenwoodsproductions.pokimanesoundboard</string>
+
+
+    <!--Ad-->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="interstitial_ad_frequency">2</string>
+
+
+    <!--Tab names-->
+    <string name="tab1">Normal</string>
+    <string name="tab2">Cute</string>
+
+    <!--Share app-->
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.greenwoodsproductions.pokimanesoundboard</string>
+    <string name="share_text">Get the</string>
+    <string name="share_via">Share via...</string>
+
+    <!--Sidebar titles-->
+    <string name="menu_title_sound">Sounds</string>
+    <string name="menu_title_share">Share app</string>
+
+    <!--Long click at sound-->
+    <string name="share_sound_title">Share sound</string>
+    <string name="set_tone_as_title">Set tone as...</string>
+    <string name="share_sound_via">Share sound via...</string>
+    <string name="ringtone_title">Ringtone</string>
+    <string name="notification_title">Notification</string>
+    <string name="alarm_title">Alarm tone</string>
+
+    <!--Permission-->
+    <string name="notice_that_app_needs_access_to_settings">The app needs access to your settings</string>
+
+    <!--This is where the sounds are saved if you share or save one-->
+    <string name="foldername">pokimanesoundboard</string>
+
+    <string name="rechtliches">This Soundboard wasn\'t produced by Pokimane, but by some of her supporters. If Pokimane has an issue with this app, please get in contact with us and we will delete it immediately.\n\n<b>Imprint:</b>\nMica Grünewald\n\n\nmicagrnwld@gmail.com</string>
+
+
+
+</resources>
