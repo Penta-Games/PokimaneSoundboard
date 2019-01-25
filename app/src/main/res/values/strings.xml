@@ -1,7 +1,7 @@
 <resources>
 
-    <string name="app_name">Pokimane Soundboard</string>
-    <string name="package_name">com.greenwoodsproductions.pokimanesoundboard</string>
+    <string name="app_name">Soundboard for Pokimane</string>
+    <string name="package_name">com.blackskystudios.soundboardpokimane</string>
 
 
     <!--Ad-->
@@ -15,7 +15,7 @@
     <string name="tab2">Cute</string>
 
     <!--Share app-->
-    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.greenwoodsproductions.pokimanesoundboard</string>
+    <string name="playstore_link">https://play.google.com/store/apps/details?id=com.blackskystudios.soundboardpokimane</string>
     <string name="share_text">Get the</string>
     <string name="share_via">Share via...</string>
 
@@ -35,9 +35,9 @@
     <string name="notice_that_app_needs_access_to_settings">The app needs access to your settings</string>
 
     <!--This is where the sounds are saved if you share or save one-->
-    <string name="foldername">pokimanesoundboard</string>
+    <string name="foldername">soundboardpokimane</string>
 
-    <string name="rechtliches">This Soundboard wasn\'t produced by Pokimane, but by some of her supporters. If Pokimane has an issue with this app, please get in contact with us and we will delete it immediately.\n\n<b>Imprint:</b>\nMica Grünewald\n\n\nmicagrnwld@gmail.com</string>
+    <string name="rechtliches">This unofficial Soundboard wasn\'t produced by Pokimane, but by some of her supporters. If Pokimane has an issue with this app, please get in contact with us and we will delete it immediately.\n\n<b>Imprint:</b>\nblackskystudios.business@gmail.com</string>
 
 
 

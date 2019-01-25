@@ -1,4 +1,4 @@
-package com.greenwoodsproductions.pokimanesoundboard;
+package com.blackskystudios.soundboardpokimane;
 
 import android.os.Bundle;
 import android.support.annotation.Nullable;
@@ -14,8 +14,8 @@ import android.view.ViewGroup;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.greenwoodsproductions.pokimanesoundboard.tabs.Tab1;
-import com.greenwoodsproductions.pokimanesoundboard.tabs.Tab2;
+import com.blackskystudios.soundboardpokimane.tabs.Tab1;
+import com.blackskystudios.soundboardpokimane.tabs.Tab2;
 
 
 public class TabFragment extends Fragment {
@@ -64,8 +64,8 @@ public class TabFragment extends Fragment {
         tabLayout.post(new Runnable() {
             @Override
             public void run() {
-                    tabLayout.setupWithViewPager(viewPager);
-                   }
+                tabLayout.setupWithViewPager(viewPager);
+            }
         });
         return v;
     }
@@ -86,8 +86,7 @@ public class TabFragment extends Fragment {
             if(position == 1){
                 return new Tab2();
             }
-
-        return null;
+            return null;
         }
 
 
@@ -99,9 +98,8 @@ public class TabFragment extends Fragment {
                     return getText(R.string.tab1);
                 case 1 :
                     return getText(R.string.tab2);
-
             }
-                return null;
+            return null;
         }
 
 

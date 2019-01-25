@@ -1,4 +1,4 @@
-package com.greenwoodsproductions.pokimanesoundboard;
+package com.blackskystudios.soundboardpokimane;
 
 import org.junit.Test;
 

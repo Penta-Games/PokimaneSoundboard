@@ -1,4 +1,4 @@
-package com.greenwoodsproductions.pokimanesoundboard;
+package com.blackskystudios.soundboardpokimane;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.greenwoodsproductions.jojosiwasoundboard", appContext.getPackageName());
+        assertEquals("com.blackskystudios.soundboardpokimane", appContext.getPackageName());
     }
 }
